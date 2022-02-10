@@ -30,3 +30,4 @@ group_size <- birds %>%
 group_size
 
 # What are the smallest species groups?
+tail(group_size)
